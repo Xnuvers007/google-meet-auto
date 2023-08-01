@@ -1,9 +1,9 @@
 # google-meet-auto
 
 requirements:
-  - python 3.10+
-  - selenium
-  - firefox
+  - python 3.10+ [download python here](https://python.org/downloads)
+  - selenium ```after download python just type pip install selenium if you forget, the script will automatically```
+  - firefox [download firefox here](https://www.mozilla.org/id/firefox/new/)
 
 This repo can you use for auto accept join with only firefox
 
