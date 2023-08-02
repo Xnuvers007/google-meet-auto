@@ -1,4 +1,4 @@
-![GNU License](https://img.shields.io/github/license/xnuvers007/google-meet-auto?style=plastic&logo=github&color=blue)
+![GNU License](https://img.shields.io/github/license/xnuvers007/google-meet-auto?style=plastic&logo=GNU&logoColor=red&color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/xnuvers007/google-meet-auto?style=plastic&logo=github&logoColor=blue&label=Size%20Repo&color=blue)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/xnuvers007/google-meet-auto?color=red)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/xnuvers007/google-meet-auto)
