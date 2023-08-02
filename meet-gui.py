@@ -77,6 +77,9 @@ def start_meet():
 
     driver.quit()
 
+def cancel_meet():
+    root.destroy()
+
 root = tk.Tk()
 root.title("Google Meet Automation")
 try:
@@ -94,5 +97,8 @@ link_entry.pack(pady=5)
 
 start_button = tk.Button(root, text="Start", command=start_meet)
 start_button.pack(pady=10)
+
+cancel_button = tk.Button(root, text="Cancel", command=cancel_meet)
+cancel_button.pack(pady=10)
 
 root.mainloop()
