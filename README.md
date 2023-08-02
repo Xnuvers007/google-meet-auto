@@ -35,3 +35,11 @@ driver = webdriver.Firefox(capabilities=firefox_capabilities, firefox_options=op
 source link code = https://stackoverflow.com/questions/50321278/how-to-load-firefox-profile-with-python-selenium
 
 so i decided to use profile from storage
+
+# BUG
+
+08/02/2023
+![gambar](https://github.com/Xnuvers007/google-meet-auto/assets/62522733/628893ab-45df-4ed4-8c9e-330c68e8a9c9)
+
+No BUG detected
+
