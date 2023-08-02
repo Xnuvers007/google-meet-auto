@@ -3,6 +3,7 @@ import time, glob
 import subprocess
 import tkinter as tk
 from tkinter import messagebox
+from tkinter import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -78,6 +79,11 @@ def start_meet():
 
 root = tk.Tk()
 root.title("Google Meet Automation")
+try:
+    icon = tk.PhotoImage(file="icon.png")
+    root.iconphoto(True, icon)
+except:
+    pass
 root.geometry("400x150")
 
 label = tk.Label(root, text="Enter Google Meet Link:")
